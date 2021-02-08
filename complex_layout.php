@@ -24,7 +24,8 @@
                                 rows: [
                                     {template: "The second row-> col 3"},
                                     {
-                                        type: "space",     cols: [
+                                        type: "space",
+                                        cols: [
                                             {template: "The second row-> col 4"},
                                             {template: "The second row-> col 5"}
                                         ]

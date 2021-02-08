@@ -34,13 +34,28 @@
                                 minWidth:300,
                                 id:"film_form",
                                 elements: [
-                                    { view:"text", name:"title", id:"inp_title", label:"Film Title" },  // input
-                                    { view:"text", name:"year", id:"inp_year", label:"Release" },
-                                    // { view:"text", name:"title", id:"inp_title", label:"Film Title good" },
-                                    // { view:"textarea", name:"year", id:"inp_year", label:"Release" },
+                                    { view:"text", name:"name", id:"inp_name", label:"Name", placeholder: "Full Name" },  // input
+                                    { view:"text", name:"phone", id:"inp_phone", label:"Telephone", placeholder: "Telephone number" },
+                                    { view: "text", name:"count", label: "count", value:3},
+                                    {view:"radio", options:["Yes","No"]},
+                                    {
+                                        rows: [
+
+                                            {
+
+                                                cols:[
+                                                    { view:"button", autowidth:true, value:"Confirm"},
+                                                    { view:"button", autowidth:true, value:"Reset"},
+                                                ]
+                                            },
+                                        ]
+                                    },
+
                                     {},
                                 ]
+
                             },
+
 
                             {view:"resizer"},
                             {minWidth: 200}
