@@ -81,7 +81,7 @@
 
                         { width:80 },
                         { template:"Row 2 Column 1" },
-                        { view:"resizer" },  // its added between them to move them  ||
+                        { view:"resizer" },  // its added between them to move them  || scroll
                         { template:"Row 2 Column 2", minWidth:150 }
                     ]
                 }

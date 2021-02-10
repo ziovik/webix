@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91854ff1-88aa-46f2-a9b3-d680736771f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/add_data_to_list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_from_list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_datas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/methods_events.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updating.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatable/cell_templates_formatting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatable/columns_header_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatable/initialize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres/test_data.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/complex_layout.php" beforeDir="false" afterPath="$PROJECT_DIR$/complex_layout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form_inputs.php" beforeDir="false" afterPath="$PROJECT_DIR$/form_inputs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sizing_views.php" beforeDir="false" afterPath="$PROJECT_DIR$/sizing_views.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +76,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo-jet-video-1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -102,6 +105,7 @@
       <workItem from="1612711048446" duration="2338000" />
       <workItem from="1612755551981" duration="1329000" />
       <workItem from="1612769059367" duration="19854000" />
+      <workItem from="1612855405583" duration="27369000" />
     </task>
     <servers />
   </component>
@@ -135,9 +139,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
